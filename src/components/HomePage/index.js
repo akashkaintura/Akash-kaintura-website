@@ -87,7 +87,7 @@ const HomePage = () => {
             </a>
             , and development with{" "}
             <a
-              href="https://akashneeds.coffee"
+              href="https://akashneedscoffee.netlify.app/"
               target="_blank"
               rel="noopener noreferrer">
               Akash Needs Coffee

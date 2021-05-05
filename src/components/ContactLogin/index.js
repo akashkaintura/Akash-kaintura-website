@@ -96,7 +96,7 @@ const ContactPage = () => {
         </a>
         &nbsp;
         <a
-          href="https://www.twitter.com/enfield_explorer"
+          href="https://www.instagram.com/enfield_explorer"
           target="_blank"
           rel="noopener noreferrer">
           [ Insta ]

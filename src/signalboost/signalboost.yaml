@@ -5,7 +5,7 @@ people:
     github: "https://github.com/AbhinavDobhal" 
 
   - name: "Ajay Nautiyal"
-    tech: "India BASH PHP Laravel Javascript Linux GraphQL React  SQL"
+    tech: "BASH PHP Laravel Javascript Linux GraphQL React  SQL"
     website: "https://ianautiyal.github.io/#/"
     github: "https://github.com/ianautiyal"
 
@@ -13,5 +13,9 @@ people:
   - name: "Rajendra Singh Rana" 
     tech: "DevOps Linux SQL Python Django Kubernetes"
     github: "https://github.com/raj1rana"
+
+  - name: "Shashank Balodi" 
+    tech: "PHP Laravel Javascript Linux GraphQL React  SQL"
+    github: "https://github.com/shashank-balodi"  
 
   
