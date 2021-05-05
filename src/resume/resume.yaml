@@ -1,0 +1,31 @@
+jobs:
+  - employer: "RubicoIT Pvt Ltd"
+    position: " Associate Software Engineer (Full Time)"
+    time: "August 2019 - Present"
+    details: |
+      - Developing custom modules solutions through the use of technologies(PHP, Laravel, Salesforce), Gatsby, React. 
+      - Worked on web Application based on React framework Gatsby  for creating a Local business Posting on its Platform.
+      
+    
+projects:
+  - name: "Confidential"
+    year: "2021"
+    description: "Built a web app to dynamic page Generators Based on the categories and type of business listings"
+    technologies: "JavaScript, React, GatsbyJS, GraphQl, Laravel."
+    github : "null"
+
+  - name: "Confidentials"
+    year: "2020"
+    description: "Worked on the Web Application which is related to Edtech Industry. But my work is limited to addition and addition of users"
+    technologies: "jQuery, Laravel, MySQL, "
+    github: "null"
+    
+  - name: "NGO"
+    year: "Oct 2019 - March 2020"
+    description : "Worked on the project related to a NGO which deals in couselling"
+    technologies : "Salesforce Non-Profit Edition, Bill Generation using VisualForce Pages, Apex, Lightning Components"  
+    github : "null"
+    
+    
+  
+
