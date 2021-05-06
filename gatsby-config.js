@@ -8,7 +8,7 @@ module.exports = {
     social: {
       github: "akashkaintura",
       linkedin: "akash-kaintura",
-      instagram: "enfieldExplorer",
+      instagram: "enfield_explorer",
     },
   },
   pathPrefix: "__GATSBY_IPFS_PATH_PREFIX__",

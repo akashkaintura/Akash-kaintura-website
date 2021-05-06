@@ -5,7 +5,7 @@ people:
     github: "https://github.com/AbhinavDobhal" 
 
   - name: "Ajay Nautiyal"
-    tech: "BASH PHP Laravel Javascript Linux GraphQL React  SQL"
+    tech: "BASH PHP Laravel Javascript Linux  CodeIgnitor Wordpress DevOps GraphQL React  SQL"
     website: "https://ianautiyal.github.io/#/"
     github: "https://github.com/ianautiyal"
 
@@ -17,5 +17,9 @@ people:
   - name: "Shashank Balodi" 
     tech: "PHP Laravel Javascript Linux GraphQL React  SQL"
     github: "https://github.com/shashank-balodi"  
+
+  - name: "Govind Kaintura" 
+    tech: "PHP Laravel Javascript GraphQL Vue "
+    github: "https://github.com/govind-kaintura"   
 
   
