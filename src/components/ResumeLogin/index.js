@@ -30,6 +30,8 @@ function zerosAreHard(n) {
   return n
 }
 
+let currentOffset = currentTime.getTimezoneOffset()
+
 let now = new Date()
 let day = days[now.getDay()]
 let month = months[now.getMonth()]
@@ -37,6 +39,8 @@ let date = now.getDate()
 let hours = zerosAreHard(now.getHours())
 let minutes = zerosAreHard(now.getMinutes())
 let seconds = zerosAreHard(now.getSeconds())
+
+let ampm = hours >= 12 ? "PM" : "AM"
 let year = now.getFullYear()
 
 let currentLoginPrompt =
@@ -52,6 +56,8 @@ let currentLoginPrompt =
   minutes +
   ":" +
   seconds +
+  " " +
+  ampm +
   " " +
   year
 
