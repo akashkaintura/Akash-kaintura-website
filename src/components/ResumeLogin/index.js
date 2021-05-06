@@ -30,8 +30,6 @@ function zerosAreHard(n) {
   return n
 }
 
-let currentOffset = currentTime.getTimezoneOffset()
-
 let now = new Date()
 let day = days[now.getDay()]
 let month = months[now.getMonth()]
