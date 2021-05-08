@@ -26,7 +26,12 @@ export default (props) => (
             </a>
           )}
           {/* { props.gitlab && <a href={ props.gitlab } target="_blank" rel="noopener noreferrer"> [GitLab]</a> } */}
-          {/* { props.linkedin && <a href={ props.linkedin } target="_blank" rel="noopener noreferrer"> [LinkedIn]</a> } */}
+          {props.linkedin && (
+            <a href={props.linkedin} target="_blank" rel="noopener noreferrer">
+              {" "}
+              [LinkedIn]
+            </a>
+          )}
           {/* { props.twitter && <a href={ props.twitter } target="_blank" rel="noopener noreferrer"> [Twitter]</a> } */}
           {props.website && (
             <a href={props.website} target="_blank" rel="noopener noreferrer">
