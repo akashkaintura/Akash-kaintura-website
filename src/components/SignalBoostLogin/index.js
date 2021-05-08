@@ -145,7 +145,7 @@ export default () => (
                 # dribbble
                 github
                 # gitlab
-                # linkedin
+                linkedin
                 # twitter
                 website
               }

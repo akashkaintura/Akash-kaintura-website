@@ -3,23 +3,29 @@ people:
   - name: "Sr. Abhinav Dobhal"
     tech: "PHP Laravel React React-Native .NET Docker SQL Gatsby GraphQL JavaScript "
     github: "https://github.com/AbhinavDobhal" 
+    linkedin: "https://linkedin.com/in/abhinav-dobhal"
 
   - name: "Ajay Nautiyal"
     tech: "BASH PHP Laravel Javascript Linux  CodeIgnitor Wordpress DevOps GraphQL React  SQL"
     website: "https://ianautiyal.github.io/#/"
     github: "https://github.com/ianautiyal"
+    linkedin: "https://linkedin.com/in/ianautiyal"
 
+  - name: "Mohit Sajwan"
+    tech: "Sass Less CSS  JavaScript React Vue jQuery Wordpress GraphQL"
+    linkedin: "https://linkedin.com/in/mohit-sajwan"
 
   - name: "Rajendra Singh Rana" 
     tech: "DevOps Linux SQL Python Django Kubernetes"
     github: "https://github.com/raj1rana"
+    linkedin: "https://linkedin.com/in/rajendrasinghrana"
 
   - name: "Shashank Balodi" 
     tech: "PHP Laravel Javascript Linux GraphQL React  SQL"
-    github: "https://github.com/shashank-balodi"  
+    linkedin: "https://linkedin.com/in/shashank-balodi"  
 
   - name: "Govind Kaintura" 
     tech: "PHP Laravel Javascript GraphQL Vue "
-    github: "https://github.com/govind-kaintura"   
+    linkedin: "https://linkedin.com/in/govind-kaintura"   
 
   
