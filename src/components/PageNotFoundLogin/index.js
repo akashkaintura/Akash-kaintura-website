@@ -57,17 +57,17 @@ export default () => (
     <span>
       {pageNotFoundLoginPrompt}
       <br />
-      Welcome to AkashNeeds.Coffee!
+      Welcome to Akash Kaintura!
     </span>
     <br />
     <br />
     <MenuBar />
-    <p>[akki@AkashhNeeds ~]$ &nbsp;cd /var/www/PageNotFound</p>
+    <p>[akki@AkashKaintura ~]$ &nbsp;cd /var/www/PageNotFound</p>
     <br />
     <div>
       <div>
         <h3 className={pageNotFoundLoginStyles.noSuchFile}>
-          bash: cd: /var/www/index.php: No such file or directory
+          bash: /var/www/index.js: No such file or directory
         </h3>
         <br />
         <h3 className={pageNotFoundLoginStyles.noSuchFile}>

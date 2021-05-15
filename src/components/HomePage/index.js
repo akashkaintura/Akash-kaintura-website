@@ -65,13 +65,13 @@ const HomePage = () => {
       <span>
         {currentLoginPrompt}
         <br />
-        Welcome to AkashNeeds.Coffee!
+        Welcome to Akash Kaintura!
       </span>
       <br />
       <br />
       <MenuBar />
       <p>
-        [akki@AkashNeeds ~]${" "}
+        [akki@AkashKaintura ~]${" "}
         <span className={homePageStyles.typed}>
           &nbsp;aboutMe<span>&nbsp;</span>
         </span>
@@ -92,7 +92,7 @@ const HomePage = () => {
               href="https://akashneedscoffee.netlify.app/"
               target="_blank"
               rel="noopener noreferrer">
-              Akash Needs Coffee
+              Akash Kaintura
             </a>
             , created .
           </h3>

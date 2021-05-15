@@ -64,13 +64,13 @@ const SignalBoostPage = (data) => {
       <span>
         {currentLoginPrompt}
         <br />
-        Welcome to AkashNeeds.Coffee!
+        Welcome to Akash Kaintura!
       </span>
       <br />
       <br />
       <MenuBar />
       <p>
-        [akki@AkashNeeds ~]${" "}
+        [akki@AkashKaintura ~]${" "}
         <span className={signalBoostLoginStyles.typed}>
           &nbsp;connections <span>&nbsp;</span>
         </span>

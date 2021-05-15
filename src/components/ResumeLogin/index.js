@@ -68,13 +68,13 @@ const ResumeLogin = (data) => {
       <span>
         {currentLoginPrompt}
         <br />
-        Welcome to AkashNeeds.Coffee!
+        Welcome to Akash Kaintura!
       </span>
       <br />
       <br />
       <MenuBar />
       <p>
-        [akki@AkashNeeds ~]${" "}
+        [akki@AkashKaintura ~]${" "}
         <span className={resumeLoginStyles.typed}>
           &nbsp;whoami<span>&nbsp;</span>
         </span>
