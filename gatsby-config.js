@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     author: `Akash Kaintura`,
     description: `Blog Posts, Communities, and Projects`,
-    keywords: `Akash, kaintura, React, Engineer, Resume, Laravel, JavaScript, JS`,
+    keywords: `Akash, kaintura, React, Engineer, Resume, Laravel, Developer, PHP, Dehradun, JavaScript, JS`,
     title: `Akash Needs Coffee`,
-    siteUrl: `https://akashneeds.coffee`,
+    siteUrl: `https://akashkaintura.netlify.app`,
     social: {
-      github: "akashkaintura",
-      linkedin: "akash-kaintura",
-      instagram: "enfield_explorer",
+      github: "https://github.com/akashkaintura",
+      linkedin: "https://in.linkedin.com/in/akash-kaintura",
+      instagram: "nerd_akki",
     },
   },
   pathPrefix: "__GATSBY_IPFS_PATH_PREFIX__",
@@ -47,7 +47,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Akash Kaintura - Software Engineer`,
-        short_name: `AkashNeedsCoffee`,
+        short_name: `nerd_ninja`,
         start_url: `/`,
         background_color: `#355366`,
         theme_color: `#355366`,
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://akashneeds.coffee",
-        sitemap: "https://akashneeds.coffee/sitemap.xml",
+        host: "https://akashkaintura.netlify.app",
+        sitemap: "https://akashkaintura.netlify.app/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
