@@ -6,7 +6,7 @@ import { Helmet } from "react-helmet"
 import SEO from "../components/SEO"
 export default () => (
   <div>
-    <Helmet>
+    {/* <Helmet>
       <script type="application/ld+json">
         {`
          {
@@ -23,10 +23,9 @@ export default () => (
          }
       `}
       </script>
-      <SEO title={`Akash Kaintura`} />
-      <Layout>
-        <HomePage />
-      </Layout>
-    </Helmet>
+      <SEO title={`Akash Kaintura`} /> */}
+    <Layout>
+      <HomePage />
+    </Layout>
   </div>
 )
