@@ -3,6 +3,7 @@ import Layout from "../components/Layout"
 import HomePage from "../components/HomePage"
 import styles from "./index.module.css"
 import { Helmet } from "react-helmet"
+import SEO from "../components/SEO"
 export default () => (
   <Helmet>
     <script type="application/ld+json">
@@ -21,6 +22,7 @@ export default () => (
         }
       `}
     </script>
+    <SEO title={`Akash Kaintura`} />
     <Layout>
       <HomePage />
     </Layout>

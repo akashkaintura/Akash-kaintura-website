@@ -41,6 +41,10 @@ export default function SEO({ description, lang, meta, title }) {
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
+          name: `site`,
+          content: url,
+        },
+        {
           name: `description`,
           content: metaDescription,
         },

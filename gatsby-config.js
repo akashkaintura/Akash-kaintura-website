@@ -3,7 +3,7 @@ module.exports = {
     author: `Akash Kaintura`,
     description: `Blog Posts, Communities, and Projects`,
     keywords: `Akash, kaintura, React, Engineer, Resume, Laravel, Developer, PHP, Dehradun, JavaScript, JS`,
-    title: `Akash Needs Coffee`,
+    title: `Akash Kaintura`,
     siteUrl: `https://akashkaintura.netlify.app`,
     social: {
       github: "https://github.com/akashkaintura",
