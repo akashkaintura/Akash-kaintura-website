@@ -7,7 +7,7 @@
   </a>
 </p>
 <h1 align="center">
-  AkashNeeds.Coffee
+  Akash Kaintura
 </h1>
 
 Welcome to the repo for my personal website. It's build on top of a GatsbyJS hello-world template (with some stuff obviously wrenched on).
@@ -31,4 +31,4 @@ _Note: There's also a second link: http://localhost:8000/\_\_\_graphql`._
 
 > This is a tool you can use to experiment with querying data (here, provided mainly by `./src/resume/resume.yaml`). Learn more about using this tool in [this Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql).
 
-Open the `Akash- kaintura-Website` directory in your code editor of choice and explore the code! Make some edits to `.js` files. Save your changes and the browser will update in real time!
+Open the `Akash-kaintura-website` directory in your code editor of choice and explore the code! Make some edits to `.js` files. Save your changes and the browser will update in real time!
