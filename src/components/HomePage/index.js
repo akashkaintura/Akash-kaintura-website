@@ -80,7 +80,7 @@ const HomePage = () => {
         <div>
           <h1>Hi, my name is Akash!</h1>
           <h3>
-            I do wokr for{" "}
+            I do work for{" "}
             <a
               href="https://www.rubicoit.com/"
               target="_blank"
