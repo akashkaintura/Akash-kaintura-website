@@ -7,7 +7,7 @@ let year = now.getFullYear()
 export default () => (
   <div>
     <hr />
-    <p className={footerStyles.footer}>
+    <p>
       Made with <span className={footerStyles.heart}>&#10084;</span> in
       Rishikesh, India || &copy; {year}, Akash Kaintura
     </p>
