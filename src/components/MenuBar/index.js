@@ -11,6 +11,7 @@ export default () => (
       <Link to="/contact/">[ Contact ]</Link>&nbsp;
       <Link to="/resume/">[ Resume ]</Link>&nbsp;
       <Link to="/signal-boost/">[ Signal Boost ]</Link>&nbsp;
+      {/* <Link to="/portfolio">[Portfolio]</Link>&nbsp; */}
       {/* <Link to="/talks-and-pods/">[ Talks // Pods ]</Link> */}
       <br />
       ----------------------------------------------------------------------------------

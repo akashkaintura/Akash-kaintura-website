@@ -2,8 +2,8 @@ import React from "react"
 import Layout from "../components/Layout"
 import HomePage from "../components/HomePage"
 import styles from "./index.module.css"
-import { Helmet } from "react-helmet"
-import SEO from "../components/SEO"
+// import { Helmet } from "react-helmet"
+// import SEO from "../components/SEO"
 export default () => (
   <div>
     {/* <Helmet>

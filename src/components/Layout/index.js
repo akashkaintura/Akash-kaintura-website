@@ -13,7 +13,7 @@ export default ({ children }) => (
       />
       <meta
         name="keywords"
-        content="Akash, kaintura, React, Engineer, Resume, Laravel, JavaScript, JS"
+        content="Akash, kaintura, React, Engineer, Resume, Laravel, JavaScript, JS, Node, PHP"
       />
       <meta charset="UTF-8" />
       <html lang="en" />

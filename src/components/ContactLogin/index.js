@@ -98,10 +98,10 @@ const ContactPage = () => {
         </a>
         &nbsp;
         <a
-          href="https://www.instagram.com/nerd_akki"
+          href="https://www.instagram.com/akash_kaintura_sd"
           target="_blank"
           rel="noopener noreferrer">
-          [ Insta ]
+          [ Instagram ]
         </a>
         <h2>Other Information</h2>
         <p>

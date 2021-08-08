@@ -89,7 +89,7 @@ const HomePage = () => {
             </a>
             , and development with{" "}
             <a
-              href="https://akashneedscoffee.netlify.app/"
+              href="https://akashkaintura.netlify.app/"
               target="_blank"
               rel="noopener noreferrer">
               Akash Kaintura
@@ -98,7 +98,10 @@ const HomePage = () => {
           </h3>
           <h3>
             My friends,colleagues help me learn and run{" "}
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://travel-junky.netlify.app/"
+              target="_blank"
+              rel="noopener noreferrer">
               prosposed website
             </a>
             , coach, and build web projects.
