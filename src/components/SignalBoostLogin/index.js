@@ -100,10 +100,6 @@ const SignalBoostPage = (data) => {
           </a>
           .
         </p>
-        <p>
-          With COVID-19 continuing to rage across the world, these people are in
-          need of a job now more than ever.
-        </p>
         <hr />
         <hr />
         <h2>People</h2>
