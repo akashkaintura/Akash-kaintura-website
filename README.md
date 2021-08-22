@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://akashneeds.coffee">
-    <img alt="Coffee Emoji" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/mozilla/36/hot-beverage_2615.png" width="60" />
+    <img alt="Coffee Emoji" src="src/images/favicon-32x32.png" width="60" />
   </a>
 </p>
 <h1 align="center">
