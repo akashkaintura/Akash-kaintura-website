@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://akashneeds.coffee">
-    <img alt="Coffee Emoji" src="src/images/favicon-32x32.png" width="60" />
+    <img alt="Coffee Emoji" src="src/images/android-chrome-192x192.png" width="60" />
   </a>
 </p>
 <h1 align="center">
