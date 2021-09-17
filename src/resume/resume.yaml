@@ -13,13 +13,13 @@ projects:
     description: " 1.Created the New UI for the application and processed multiple images with different Shapes and sizes.
                    2. Make feature to give user option to select from the multiple templates and generate the images on the basis of the information it contains on the OG tags."
     technologies: "JavaScript, Laravel, OG tags, BannerBear API, MySQL"  
-    gitea: "yes"  
+    gitea: "null"  
 
   - name: "Christian Blue"
     year: "2021"
     description: "Built a web app to dynamic page Generators Based on the categories and type of business listings"
     technologies: "JavaScript, React, GatsbyJS, GraphQl, Laravel."
-    gitea : "yes"
+    gitea : "null"
 
   - name: "Eduspire Solutions"
     year: "2020"
@@ -27,13 +27,13 @@ projects:
                   2. Create the new Users and the relation between the schools and buildings of the same Schools and Users.
                   3. Creating the new features for the sites and Maintenance for DAU ~ 160k."
     technologies: "jQuery, Laravel, MySQL, "
-    Bitbucket: "yes"
+    Bitbucket: "null"
     
   - name: "Cornerstone Couselling Foundation"
     year: "Oct 2019 - March 2020"
     description : "Worked on the project related to a NGO which deals in couselling"
     technologies : "Salesforce Non-Profit Edition, Bill Generation using VisualForce Pages, Apex, Lightning Components"  
-    Heroku : "yes"
+    Heroku : "null"
     
     
   
