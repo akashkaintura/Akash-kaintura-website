@@ -4,8 +4,6 @@
 
 Hey there! If you're looking for a new gig I'd love to help out by putting some information about you on my signal boosts page.
 
-Just clone this repository, add your information to [this page](https://github.com/Quinncuatro/Henry-Personal-Website/blob/master/src/signalboost/signalboost.yaml), and put in a pull request.
-
 ```markdown
 people:
 
@@ -54,6 +52,5 @@ You might see a `hidden: "true"` attribute for John Doe in the `signalboost.yaml
 
 Once I get the notification of your PR, check your formatting, and roll your change into my main branch a Netlify build should kick off and deploy the updated version.
 
-Please feel free to [hit me up](https://akashneeds.coffee/contact) if there's anything else I might be able to do to help you land a new job!
 
 And please remember to take yourself off this page when you find the next thing. I look forward to reviewing a celebratory PR with you!
