@@ -11,7 +11,7 @@ module.exports = {
       instagram: "nerd_akki",
     },
   },
-  pathPrefix: "__GATSBY_IPFS_PATH_PREFIX__",
+  // pathPrefix: "__GATSBY_IPFS_PATH_PREFIX__",
   plugins: [
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
