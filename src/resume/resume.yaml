@@ -1,4 +1,17 @@
 jobs:
+  - employer: "Athena & Tully Pte Ltd."
+    position: "Full Stack Developer"
+    time: "october 2021 - present"
+    details: "Developing the new modules for the components and update the APIs and Integration with the CRMs"
+
+projects:
+  - name: "Koco Schools"
+    year: "2021"
+    description:   "1.Created the New UI for the application and processed the user and the lead generation lists images. "
+                   "2. Make feature for staff members and the students to interact with each other using the koco developed modules."
+    technologies: "JavaScript, Angular 9, Nestjs, MongoDB, Hubspot API, etc."  
+    
+    
   - employer: "RubicoIT Pvt Ltd"
     position: " Associate Software Engineer (Full Time)"
     time: "August 2019 - September 2021"
