@@ -9,7 +9,7 @@ projects:
     year: "2021"
     description:   "1.Created the New UI for the application and processed the user and the lead generation lists images. "
                    "2. Make feature for staff members and the students to interact with each other using the koco developed modules."
-    technologies: "JavaScript, Angular 9, Nestjs, MongoDB, Hubspot API, etc."  
+    technologies: "JavaScript,  Angular 9, Nestjs, MongoDB, Hubspot API, etc."  
     
     
   - employer: "RubicoIT Pvt Ltd"
